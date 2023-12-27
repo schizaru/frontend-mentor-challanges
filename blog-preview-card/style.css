@@ -12,6 +12,7 @@
 
 body {
   font-family: "Figtree", sans-serif;
+  background-color: #f5d04e;
 }
 
 .container {
@@ -65,7 +66,7 @@ body {
   display: inline-block;
   font-size: 12px;
   font-weight: 700;
-  background-color: #fce955;
+  background-color: #f5d04e;
   padding: 4px 8px;
   border-radius: 3px;
 }
